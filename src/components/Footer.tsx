@@ -83,15 +83,7 @@ export default function Footer() {
             <ul className="space-y-4 text-slate-600 font-bold">
               <li className="flex justify-between border-b border-slate-50 pb-2">
                 <span>ראשון - חמישי</span>
-                <span className="text-slate-900">07:00 - 17:00</span>
-              </li>
-              <li className="flex justify-between border-b border-slate-50 pb-2 text-teal-600">
-                <span>אופציה לצהרון</span>
-                <span>עד 19:00</span>
-              </li>
-              <li className="flex justify-between border-b border-slate-50 pb-2">
-                <span>שישי</span>
-                <span className="text-slate-900">08:00 - 12:00</span>
+                <span className="text-slate-900">07:30 - 16:00</span>
               </li>
             </ul>
           </div>

@@ -7,7 +7,7 @@ import Image from 'next/image';
 
 const scheduleItems = [
   {
-    time: '07:00 - 08:30',
+    time: '07:30 - 08:30',
     title: 'קבלת פנים ומשחק חופשי',
     description: 'נחיתה רכה בגן, מפגש עם החברים ופעילות חופשית בפינות המשחק המונטסוריות.',
     icon: <Sun className="text-amber-500" />,
@@ -18,7 +18,7 @@ const scheduleItems = [
     title: 'ארוחת בוקר מזינה',
     description: 'ארוחה ביתית עשירה בויטמינים, המעודדת עצמאות סביב השולחן ונימוסי אכילה.',
     icon: <Coffee className="text-orange-500" />,
-    image: '/images/5.jpg'
+    image: '/images/6.jpg'
   },
   {
     time: '09:15 - 10:30',
@@ -42,7 +42,7 @@ const scheduleItems = [
     image: '/images/11.jpg'
   },
   {
-    time: '12:30 - 15:00',
+    time: '12:30 - 16:00',
     title: 'מנוחת צהריים',
     description: 'זמן טעינת מצברים בסביבה שקטה, רגועה ומבוקרת.',
     icon: <Moon className="text-indigo-500" />,
