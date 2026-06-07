@@ -12,7 +12,7 @@ export default function Hero() {
       <div className="absolute inset-0 z-0">
         <div className="absolute inset-0 bg-white/40 z-10" />
         <Image 
-          src="/images/8.jpg" 
+          src="images/8.jpg" 
           alt="רקע גן סאנשיין" 
           fill 
           className="object-cover object-center opacity-30"
@@ -75,7 +75,7 @@ export default function Hero() {
           {/* Main Hero Image with Rounded Corners as per Ganey Agnon */}
           <div className="relative z-10 rounded-[4rem] overflow-hidden shadow-2xl border-[16px] border-white ring-1 ring-slate-100">
             <Image 
-              src="/images/3.jpg" 
+              src="images/3.jpg" 
               alt="פעילות בפעוטון סאנשיין" 
               width={700} 
               height={800}
@@ -90,7 +90,7 @@ export default function Hero() {
             className="absolute -top-10 -right-10 z-20 bg-white p-6 rounded-[2.5rem] shadow-2xl border border-slate-50 flex items-center gap-4"
           >
             <div className="w-14 h-14 rounded-full bg-teal-50 flex items-center justify-center">
-               <Image src="/images/21.png" alt="" width={40} height={40} />
+               <Image src="images/21.png" alt="" width={40} height={40} />
             </div>
             <div>
               <p className="text-[10px] text-teal-600 font-black uppercase tracking-widest">שיטה חינוכית</p>
