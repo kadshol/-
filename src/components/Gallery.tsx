@@ -5,9 +5,9 @@ import Image from 'next/image';
 import { motion } from 'framer-motion';
 
 const images = [
-  'images/2.png', '/images/3.jpg', '/images/4.jpg', '/images/5.jpg',
-  '/images/6.jpg', '/images/7.jpg', '/images/8.jpg', '/images/9.jpg',
-  '/images/10.jpg', '/images/11.jpg', '/images/12.jpg', '/images/13.jpg',
+  'images/2.png', 'images/3.jpg', 'images/4.jpg', 'images/5.jpg',
+  'images/6.jpg', 'images/7.jpg', 'images/8.jpg', 'images/9.jpg',
+  'images/10.jpg', 'images/11.jpg', 'images/12.jpg', 'images/13.jpg',
 ];
 
 export default function Gallery() {
@@ -15,7 +15,7 @@ export default function Gallery() {
     <section id="gallery" className="py-24 bg-[#fff9e6]/50 relative overflow-hidden" dir="rtl">
       {/* Background decorations */}
       <div className="absolute top-0 right-[-10%] opacity-5 pointer-events-none">
-         <Image src="/images/21.png" alt="" width={500} height={500} />
+         <Image src="images/21.png" alt="" width={500} height={500} />
       </div>
 
       <div className="max-w-7xl mx-auto px-6 relative z-10">
