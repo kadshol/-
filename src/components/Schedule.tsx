@@ -11,42 +11,42 @@ const scheduleItems = [
     title: 'קבלת פנים ומשחק חופשי',
     description: 'נחיתה רכה בגן, מפגש עם החברים ופעילות חופשית בפינות המשחק המונטסוריות.',
     icon: <Sun className="text-amber-500" />,
-    image: '/images/4.jpg'
+    image: 'images/4.jpg'
   },
   {
     time: '08:30 - 09:15',
     title: 'ארוחת בוקר מזינה',
     description: 'ארוחה ביתית עשירה בויטמינים, המעודדת עצמאות סביב השולחן ונימוסי אכילה.',
     icon: <Coffee className="text-orange-500" />,
-    image: '/images/6.jpg'
+    image: 'images/6.jpg'
   },
   {
     time: '09:15 - 10:30',
     title: 'מפגש בוקר ופעילות דידקטית',
     description: 'שירי בוקר, למידת מושגים, חשיפה לאנגלית ופיתוח שפתי בקבוצות קטנות.',
     icon: <BookOpen className="text-teal-500" />,
-    image: '/images/3.jpg'
+    image: 'images/3.jpg'
   },
   {
     time: '10:30 - 11:30',
     title: 'חצר וחוגי העשרה',
     description: 'פעילות גופנית בחצר המרווחת, משחקי תנועה או חוגי ריתמיקה ויוגה.',
     icon: <Music className="text-blue-500" />,
-    image: '/images/10.jpg'
+    image: 'images/10.jpg'
   },
   {
     time: '11:30 - 12:30',
     title: 'ארוחת צהריים חמה',
     description: 'ארוחה בשרית/צמחונית מלאה, טרייה ומבושלת מדי יום במקום.',
     icon: <Zap className="text-red-500" />,
-    image: '/images/11.jpg'
+    image: 'images/11.jpg'
   },
   {
     time: '12:30 - 16:00',
     title: 'מנוחת צהריים',
     description: 'זמן טעינת מצברים בסביבה שקטה, רגועה ומבוקרת.',
     icon: <Moon className="text-indigo-500" />,
-    image: '/images/12.jpg'
+    image: 'images/12.jpg'
   }
 ];
 
