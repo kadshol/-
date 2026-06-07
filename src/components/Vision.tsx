@@ -19,7 +19,7 @@ export default function Vision() {
           >
             <div className="relative z-10 rounded-[3rem] overflow-hidden shadow-2xl border-[12px] border-white">
               <Image 
-                src="/images/תמונה של חסידה.png" 
+                src="images/תמונה של חסידה.png" 
                 alt="חסידה מנשה - חזון הפעוטון" 
                 width={600} 
                 height={800}
