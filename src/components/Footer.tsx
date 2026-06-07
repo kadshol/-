@@ -16,7 +16,7 @@ export default function Footer() {
             <div className="flex items-center gap-3 mb-8">
               <div className="w-14 h-14 rounded-2xl bg-teal-50 p-2 shadow-sm border border-teal-100">
                 <Image 
-                   src="/images/תמונה של חסידה.png" 
+                   src="./images/תמונה של חסידה.png" 
                    alt="לוגו" 
                    width={50} 
                    height={50}
