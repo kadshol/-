@@ -20,7 +20,7 @@ export default function RecommendationsPage() {
           </Link>
           <div className="flex items-center gap-3">
              <Image src="/images/תמונה של חסידה.png" alt="לוגו" width={40} height={40} className="object-contain" />
-             <span className="text-lg font-black text-teal-600">סנשיין בירושלים</span>
+             <span className="text-lg font-black text-teal-600">סאנשיין בירושלים</span>
           </div>
         </div>
       </header>
@@ -37,7 +37,7 @@ export default function RecommendationsPage() {
             </div>
             <h1 className="text-5xl md:text-7xl font-black mb-8 leading-tight">מכתבי המלצה מקוריים</h1>
             <p className="text-xl md:text-2xl text-teal-100 max-w-2xl mx-auto font-medium leading-relaxed">
-              הביטחון שלכם הוא השליחות שלנו. הנה מה שהורים אמיתיים כותבים על המסע המשותף שלהם איתנו ב"סנשיין".
+              הביטחון שלכם הוא השליחות שלנו. הנה מה שהורים אמיתיים כותבים על המסע המשותף שלהם איתנו ב"סאנשיין".
             </p>
           </motion.div>
         </div>

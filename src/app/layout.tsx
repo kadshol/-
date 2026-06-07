@@ -5,8 +5,8 @@ import "./globals.css";
 const assistant = Assistant({ subsets: ["hebrew", "latin"] });
 
 export const metadata: Metadata = {
-  title: "פעוטון סנשיין | חממה של אהבה וצמיחה בירושלים",
-  description: "פעוטון סנשיין בירושלים. שילוב של מונטסורי, אינטליגנציה רגשית וסביבה דו-לשונית.",
+  title: "פעוטון סאנשיין | חממה של אהבה וצמיחה בירושלים",
+  description: "פעוטון סאנשיין בירושלים. שילוב של מונטסורי, אינטליגנציה רגשית וסביבה דו-לשונית.",
 };
 
 export default function RootLayout({

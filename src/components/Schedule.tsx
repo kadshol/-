@@ -68,7 +68,7 @@ export default function Schedule() {
           >
             סדר היום שלנו
           </motion.div>
-          <h2 className="text-4xl md:text-5xl font-black text-slate-900 mb-6">המסע היומי בסנשיין</h2>
+          <h2 className="text-4xl md:text-5xl font-black text-slate-900 mb-6">המסע היומי בסאנשיין</h2>
           <p className="text-xl text-slate-600 max-w-2xl mx-auto font-medium">
             סדר יום מובנה ומאוזן המעניק לילדים ביטחון, עניין ומרחב להתפתחות מיטבית.
           </p>

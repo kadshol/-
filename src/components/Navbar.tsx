@@ -44,7 +44,7 @@ export default function Navbar() {
             <div className="relative h-12 w-12 rounded-xl bg-teal-600 flex items-center justify-center p-1.5 shadow-lg">
                <Image 
                  src="/images/תמונה של חסידה.png" 
-                 alt="לוגו סנשיין" 
+                 alt="לוגו סאנשיין" 
                  width={40} 
                  height={40}
                  className="object-contain brightness-0 invert"
@@ -55,7 +55,7 @@ export default function Navbar() {
                 "text-2xl font-black tracking-tight leading-none transition-colors duration-500",
                 (isOpen || scrolled) ? "text-slate-900" : "text-slate-800"
               )}>
-                סנשיין
+                סאנשיין
               </span>
               <span className="text-[10px] font-bold uppercase tracking-widest text-teal-600 mt-1">
                  ירושלים

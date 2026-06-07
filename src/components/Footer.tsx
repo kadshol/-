@@ -24,7 +24,7 @@ export default function Footer() {
                 />
               </div>
               <div className="flex flex-col">
-                <span className="text-2xl font-black tracking-tight text-slate-900">פעוטון סנשיין</span>
+                <span className="text-2xl font-black tracking-tight text-slate-900">פעוטון סאנשיין</span>
                 <span className="text-[10px] font-bold text-teal-600 uppercase tracking-widest">חינוך • בית • קהילה</span>
               </div>
             </div>
@@ -90,7 +90,7 @@ export default function Footer() {
         </div>
 
         <div className="border-t border-slate-100 pt-8 flex flex-col md:flex-row justify-between items-center gap-6 text-slate-400 text-sm font-bold">
-          <p>© 2026 פעוטון סנשיין בירושלים. כל הזכויות שמורות.</p>
+          <p>© 2026 פעוטון סאנשיין בירושלים. כל הזכויות שמורות.</p>
           <div className="flex gap-8">
             <a href="#" className="hover:text-teal-600 transition-colors">הצהרת נגישות</a>
             <a href="#" className="hover:text-teal-600 transition-colors">מדיניות פרטיות</a>

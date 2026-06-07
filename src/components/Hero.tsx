@@ -13,7 +13,7 @@ export default function Hero() {
         <div className="absolute inset-0 bg-white/40 z-10" />
         <Image 
           src="/images/8.jpg" 
-          alt="רקע גן סנשיין" 
+          alt="רקע גן סאנשיין" 
           fill 
           className="object-cover object-center opacity-30"
           priority
@@ -33,7 +33,7 @@ export default function Hero() {
           
           <h1 className="text-5xl md:text-7xl font-black text-slate-900 leading-[1.1] mb-8">
             פעוטון בוטיק <br />
-            <span className="text-teal-600 underline decoration-teal-100 decoration-8 underline-offset-4">סנשיין</span>
+            <span className="text-teal-600 underline decoration-teal-100 decoration-8 underline-offset-4">סאנשיין</span>
           </h1>
           
           <p className="text-xl md:text-2xl text-slate-600 mb-10 leading-relaxed font-medium max-w-xl">
@@ -76,7 +76,7 @@ export default function Hero() {
           <div className="relative z-10 rounded-[4rem] overflow-hidden shadow-2xl border-[16px] border-white ring-1 ring-slate-100">
             <Image 
               src="/images/3.jpg" 
-              alt="פעילות בפעוטון סנשיין" 
+              alt="פעילות בפעוטון סאנשיין" 
               width={700} 
               height={800}
               className="object-cover"

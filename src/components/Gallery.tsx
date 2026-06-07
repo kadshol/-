@@ -34,7 +34,7 @@ export default function Gallery() {
             viewport={{ once: true }}
             className="text-4xl font-black text-slate-900 mb-4"
           >
-            רגעים של קסם בסנשיין
+            רגעים של קסם בסאנשיין
           </motion.h2>
           <p className="text-xl text-slate-700 font-medium">הצצה קטנה לחיי היום-יום המלאים בשמחה ולמידה</p>
         </div>
@@ -58,7 +58,7 @@ export default function Gallery() {
               />
               <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-all duration-300 flex items-end p-8">
                 <div className="text-white">
-                  <p className="font-black text-xl mb-1 italic">סנשיין של יום ✨</p>
+                  <p className="font-black text-xl mb-1 italic">סאנשיין של יום ✨</p>
                   <div className="w-12 h-1 bg-yellow-400 rounded-full" />
                 </div>
               </div>
