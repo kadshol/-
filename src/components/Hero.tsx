@@ -28,7 +28,7 @@ export default function Hero() {
         >
           <div className="flex items-center gap-3 mb-6">
             <span className="h-[2px] w-12 bg-teal-500 rounded-full" />
-            <span className="text-teal-600 font-bold uppercase tracking-[0.2em] text-sm">ירושלים • רמת שרת</span>
+            <span className="text-teal-600 font-bold uppercase tracking-[0.2em] text-sm">ירושלים • רמות א׳</span>
           </div>
           
           <h1 className="text-5xl md:text-7xl font-black text-slate-900 leading-[1.1] mb-8">
