@@ -64,7 +64,7 @@ export default function Footer() {
                 <div className="w-10 h-10 rounded-full bg-teal-50 flex items-center justify-center text-teal-600 group-hover:bg-teal-600 group-hover:text-white transition-all">
                   <Mail size={18} />
                 </div>
-                <span>office@sunshine-hdo.co.il</span>
+                <span>sunshinedaycareisrael@gmail.com</span>
               </li>
               <li className="flex items-start gap-4">
                 <div className="w-10 h-10 rounded-full bg-teal-50 flex items-center justify-center text-teal-600 mt-1">

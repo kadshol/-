@@ -68,7 +68,7 @@ export default function Vision() {
             <div className="mt-12 flex items-center gap-6">
               <div className="flex flex-col">
                 <p className="text-2xl font-black text-slate-900">חסידה מנשה</p>
-                <p className="text-teal-600 font-bold text-sm">מייסדת ומנהלת פדגוגית</p>
+                <p className="text-teal-600 font-bold text-sm">מייסדת ומנהלת</p>
               </div>
               <div className="w-16 h-[2px] bg-slate-200" />
             </div>

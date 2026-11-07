@@ -125,7 +125,7 @@ export default function Navbar() {
                     <div className="w-12 h-12 rounded-full bg-white shadow-sm flex items-center justify-center text-teal-600">
                       <Mail size={20} />
                     </div>
-                    <span className="text-lg font-bold text-slate-800">office@sunshine.co.il</span>
+                    <span className="text-lg font-bold text-slate-800">sunshinedaycareisrael@gmail.com</span>
                   </li>
                   <li className="flex items-start gap-4">
                     <div className="w-12 h-12 rounded-full bg-white shadow-sm flex items-center justify-center text-teal-600">
